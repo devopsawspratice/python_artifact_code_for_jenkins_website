@@ -4,6 +4,8 @@
     <img src='./demo/demo.gif' title='Demo da calculadora' width='340px' />
 </div>
 
+
+
 ## Motivação
 O projeto tem por objetivo incentivar iniciantes na programação em python a contribuir com projetos open source que vão além do Terminal, de modo que seja mais visual o desenvolvimento. 
 
